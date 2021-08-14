@@ -1,0 +1,7 @@
+server:
+  port: 9090
+jwt:
+  secret: secret
+
+app:
+  validationConfirmationMessage: You have been validated!
